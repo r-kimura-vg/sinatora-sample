@@ -1,2 +1,7 @@
 # sinatora-sample
-sintora app sample
+
+## Usage
+
+```
+bundle install --path vendor/bundle
+```
