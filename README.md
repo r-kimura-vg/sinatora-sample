@@ -3,11 +3,11 @@
 ## Usage
 
 ```
-bundle install --path vendor/bundle
+bundle install --path vendor/bundle --binstubs
 ```
 
 ## webrick start
 
 ```
-bundle exec rackup --host 0.0.0.0
+rackup --host 0.0.0.0
 ```
